@@ -1,2 +1,6 @@
 jupyter
+jupyterthemes
 numpy
+seaborn
+
+nbstripout
