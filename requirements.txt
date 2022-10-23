@@ -2,5 +2,6 @@ jupyter
 jupyterthemes
 numpy
 seaborn
+svg.path
 
 nbstripout
