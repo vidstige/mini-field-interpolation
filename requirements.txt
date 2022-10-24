@@ -1,4 +1,5 @@
 jupyter
+ipywidgets
 jupyterthemes
 numpy
 seaborn
