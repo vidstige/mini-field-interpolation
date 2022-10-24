@@ -15,4 +15,5 @@ else
     cp "${REQUIREMENTS_TXT}" "$VENV_PATH/requirements.txt"
 fi
 
+jt --theme chesterish
 jupyter notebook
