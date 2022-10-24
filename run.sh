@@ -16,4 +16,4 @@ else
 fi
 
 jt --theme chesterish
-jupyter notebook
+jupyter notebook field_interpolation.ipynb
